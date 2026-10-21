@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:weathe_app/models/weather_model.dart';
-import 'package:weathe_app/pages/search_page.dart';
-import 'package:weathe_app/provider/weather_provider.dart';
+import 'package:weather_app/models/weather_model.dart';
+import 'package:weather_app/pages/search_page.dart';
+import 'package:weather_app/provider/weather_provider.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key? key}) : super(key: key);
